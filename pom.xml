@@ -7,4 +7,13 @@
     <groupId>eu.horizontalline</groupId>
     <artifactId>Text-based-computer-game</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>12</version>
+        </dependency>
+    </dependencies>
+
 </project>
